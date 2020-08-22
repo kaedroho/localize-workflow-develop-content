@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "seo_title"
 msgid "Home"
-msgstr "Accueil"
+msgstr "This is a test from Git"
 
 msgctxt "hero_text"
 msgid "A sample site designed to demonstrate the capabilities of the Wagtail Content Management System."
