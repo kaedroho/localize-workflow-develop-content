@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:14.630753+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2c8a6f42-dd15-4f56-b47b-5806ec776f8d\n"
+
+msgctxt "title"
+msgid "France"
+msgstr ""

@@ -1,0 +1,80 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.327383+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "About"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Things to know about this demo site"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Welcome to the Wagtail Demo Site!"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid ""
+"If you've gotten this far, congratulations - you're running an instance of a killer content management system written for and on top of Django, <i>the framework for perfectionists with "
+"deadlines.</i>"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "What does Wagtail get you that Django alone does not?"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Focus on content creators/managers, rather than developers (but developer-friendly!)"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "“Page-centric” content modeling. This shouldn’t appear in French, yet."
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Beautiful, modern, intuitive user interface optimized for content people"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Super-powerful hierarchical content management (\"content trees\")"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "User- and group-based permissions system attached to content hierarchies"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Flexible image resizing with a ton of image display helpers"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Innovative \"<a id=\"a1\">StreamFields</a>\" as an alternative to traditional \"anything goes\" rich text fields"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Intuitive choosers for embedded Pages, Images, Documents and other content"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Native integration with ElasticSearch to help you build powerful search features"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Template tags to help create image renditions, smart links, and to navigate content trees"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "If you're new to Wagtail, there are two primary paths to learning:"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "The source code that powers this demo site"
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "The official <a id=\"a1\">tutorial</a>"
+msgstr ""

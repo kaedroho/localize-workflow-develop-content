@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.443500+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3e1dac95-524c-4382-a5b7-618cc4413885\n"
+
+msgctxt "body"
+msgid "Copyright <b>The Wagtail Bakery</b>, 2019. All rights reserved.<br/><i>\"If you read a lot you're well read / If you eat a lot you're well bread.\"</i>"
+msgstr "Copyright <b>The Wagtail Bakery</b>, 2019. Tous droits réservés.<br/><i>\"Si vous lisez beaucoup, vous êtes bien lu / Si vous mangez beaucoup, vous êtes bien du pain.\"</i>"

@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.513732+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 273f68d9-8db2-450d-aeee-8c1629b907f5\n"
+
+msgctxt "title"
+msgid "Test"
+msgstr ""
+
+msgctxt "introduction"
+msgid "This is some content"
+msgstr ""
+
+msgctxt "body.6a639a2c-5c07-4a35-8697-4dc00d2eeed6.text"
+msgid "Hey, here’s a quote"
+msgstr ""
+
+msgctxt "body.6a639a2c-5c07-4a35-8697-4dc00d2eeed6.attribute_name"
+msgid "Théo Chevalier"
+msgstr ""
+
+msgctxt "body.1dd4a11e-0cbe-4325-a598-304af525d062.caption"
+msgid "Stop hate for profits"
+msgstr ""
+
+msgctxt "body.1dd4a11e-0cbe-4325-a598-304af525d062.attribution"
+msgid "Mozilla"
+msgstr ""
+
+msgctxt "body.2153c05e-cd44-478b-8e7c-d53871bf9897"
+msgid "Here’s some more <a id=\"a1\">content</a>, actually."
+msgstr ""
+
+msgctxt "body.2153c05e-cd44-478b-8e7c-d53871bf9897"
+msgid "Title?"
+msgstr ""
+
+msgctxt "body.2153c05e-cd44-478b-8e7c-d53871bf9897"
+msgid "Foo bar."
+msgstr ""
+
+msgctxt "body.8a183fc4-170f-4a11-8204-dba7920ab817.heading_text"
+msgid "Heading"
+msgstr ""

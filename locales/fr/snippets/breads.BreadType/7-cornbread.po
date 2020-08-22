@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:14.453579+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1cb7ea35-e047-476e-99b0-fcf74988abc3\n"
+
+msgctxt "title"
+msgid "Cornbread"
+msgstr ""

@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.284907+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 77584953-9aab-44fa-8c5b-887886e02f2e\n"
+
+msgctxt "title"
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+msgctxt "body.7085e921-bf55-4fcc-8a36-b1fda7bfdd14"
+msgid "We'd love to hear from you! Drop us a line to let us know what you liked or didn't like about your recent store visit, or if you have comments or questions about this site."
+msgstr ""
+"Nous aimerions avoir de vos nouvelles ! Écrivez-nous pour nous faire savoir ce que vous avez aimé ou non lors de votre récente visite en magasin, ou si vous avez des commentaires ou des questions "
+"sur ce site."
+
+msgctxt "body.7085e921-bf55-4fcc-8a36-b1fda7bfdd14"
+msgid ""
+"This form is for demo purposes only - email goes nowhere. Developers:  Edit the \"To Address\" field in the Form object in the Wagtail admin, and see the Email notes in the project readme to make "
+"your instance send live email."
+msgstr ""
+"Ce formulaire est uniquement destiné à la démonstration - le courrier électronique ne mène nulle part. Les développeurs :  Modifiez le champ \"To Address\" dans l'objet Form de l'administration de "
+"Wagtail, et consultez les notes d'email dans le projet readme pour que votre instance envoie des emails en direct."
+
+msgctxt "thank_you_text"
+msgid "Thanks!"
+msgstr "Merci !"
+
+msgctxt "thank_you_text"
+msgid "We've received your message and will get back to you shortly."
+msgstr "Nous avons reçu votre message et nous vous répondrons sous peu."
+
+msgctxt "form_fields.267f4803-eed9-41fb-9da3-dc6a474cdfaf.label"
+msgid "Subject"
+msgstr "Sujet"
+
+msgctxt "form_fields.8f15ccb3-25bf-4435-b44d-bd0fd95e8703.label"
+msgid "Your Name"
+msgstr "Votre nom"
+
+msgctxt "form_fields.20b6bdd0-f74d-4096-bd7a-92525180090c.label"
+msgid "Your Email"
+msgstr "Votre adresse électronique"
+
+msgctxt "form_fields.20b6bdd0-f74d-4096-bd7a-92525180090c.default_value"
+msgid "you@example.com"
+msgstr "you@example.com"
+
+msgctxt "form_fields.37014d66-6a79-4dd9-9f84-a7c4f06526e9.label"
+msgid "Purpose"
+msgstr "Objet"
+
+msgctxt "form_fields.37014d66-6a79-4dd9-9f84-a7c4f06526e9.choices"
+msgid "Comment, Question, Feedback"
+msgstr "Commentaires, questions, réactions"
+
+msgctxt "form_fields.8d42c01f-b47d-4acd-9990-127697e4ccb6.label"
+msgid "Body"
+msgstr "Corps"
+
+msgctxt "form_fields.8d42c01f-b47d-4acd-9990-127697e4ccb6.help_text"
+msgid "What's on your mind?"
+msgstr "Qu'est-ce qui vous préoccupe ?"
+
+#~ msgctxt "form_fields.8d42c01f-b47d-4acd-9990-127697e4ccb6.help_text"
+#~ msgid "What&#x27;s on your mind?"
+#~ msgstr "Qu'est-ce qui vous préoccupe ?"

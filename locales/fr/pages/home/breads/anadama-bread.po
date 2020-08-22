@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:14.099491+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: fe8b17fb-6dd5-400a-8df3-62f8057426ab\n"
+
+msgctxt "title"
+msgid "Anadama"
+msgstr ""
+
+msgctxt "introduction"
+msgid ""
+"It is not readily agreed exactly when or where the bread originated, except it existed before 1850 in Rockport, Massachusetts. It is thought to have come from the local fishing community, but it may"
+" have come through the Finnish community of local stonecutters."
+msgstr ""

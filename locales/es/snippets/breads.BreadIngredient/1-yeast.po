@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.906419+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 722cd9ba-dbaa-48b0-87bb-313c929ca177\n"
+
+msgctxt "name"
+msgid "Yeast"
+msgstr "Levadura"

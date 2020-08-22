@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.793498+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 62051ebb-207a-4027-a7ec-4a5b5c3ca641\n"
+
+msgctxt "title"
+msgid "The Joy of (Baking) Soda"
+msgstr ""
+
+msgctxt "subtitle"
+msgid "The ingredients of traditional soda bread are flour, bread soda, salt, and buttermilk."
+msgstr ""
+
+msgctxt "introduction"
+msgid ""
+"During the early years of European settlement of the Americas, settlers and some groups of Indigenous peoples of the Americas used soda or pearl ash, more commonly known as potash (pot ash) or "
+"potassium carbonate, as a leavening agent (the forerunner to baking soda) in quick breads."
+msgstr ""
+
+msgctxt "body.2e9222ac-52ab-430a-81ce-0d11c9ec9150"
+msgid ""
+"Since it has long been known and is widely used, the salt has many related names such as baking soda, bread soda, cooking soda, and bicarbonate of soda. In colloquial usage, the names sodium "
+"bicarbonate and bicarbonate of soda are often truncated. Forms such as sodium bicarb, bicarb soda, bicarbonate, bicarb, or even bica are common. The word saleratus, from Latin <i>sal æratus</i> "
+"meaning \"aerated salt\", was widely used in the 19th century for both sodium bicarbonate and potassium bicarbonate."
+msgstr ""
+
+msgctxt "body.febfc857-1e7e-4825-a2de-cdfed88524a3.caption"
+msgid "Fresh baked"
+msgstr ""
+
+msgctxt "body.de648007-a322-4349-90f3-1815c3d1fa88.attribution"
+msgid "Creative Commons"
+msgstr ""
+
+msgctxt "body.42bd9541-a343-4290-9933-9419a81744fd"
+msgid ""
+"The prefix, bi, in bicarbonate comes from an outdated naming system and is based on the observation that there is twice as much carbonate (CO3) per sodium in <a id=\"a1\">sodium "
+"bicarbonate</a> (NaHCO3) as there is carbonate per sodium in sodium carbonate (Na2CO3) and other carbonates. The modern way of analyzing the situation based on the exact chemical composition (which "
+"was unknown when the name sodium bicarbonate was coined) says this the other way around: there is half as much sodium in NaHCO3 as in Na2CO3 (Na versus Na2)."
+msgstr ""
+
+msgctxt "body.de648007-a322-4349-90f3-1815c3d1fa88.caption"
+msgid "Cornucopia of Breads"
+msgstr ""

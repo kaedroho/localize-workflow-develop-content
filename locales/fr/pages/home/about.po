@@ -1,0 +1,89 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-22 11:33:16.354268+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 69313ebf-89c8-479b-b55d-1b3cd1b1227a\n"
+
+msgctxt "title"
+msgid "About"
+msgstr "À propos"
+
+msgctxt "introduction"
+msgid "Things to know about this demo site"
+msgstr "Ce qu'il faut savoir sur ce site de démonstration"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Welcome to the Wagtail Demo Site!"
+msgstr "Bienvenue sur le site de démonstration de Wagtail"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid ""
+"If you've gotten this far, congratulations - you're running an instance of a killer content management system written for and on top of Django, <i>the framework for perfectionists with "
+"deadlines.</i>"
+msgstr "Bravo, vous utilisez un gestionnaire de contenu top moumoute conçu pour et avec Django, <i>le framework des perfectionnistes qui ont des délais à respecter.</i>"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "What does Wagtail get you that Django alone does not?"
+msgstr "Qu'est-ce que Wagtail vous apporte de plus que Django seul ?"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Focus on content creators/managers, rather than developers (but developer-friendly!)"
+msgstr "Se concentrer sur les créateurs et gestionnaires de contenu plutôt que sur les développeurs (mais favorable aux développeurs !)"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "“Page-centric” content modeling. This shouldn’t appear in French, yet."
+msgstr ""
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Beautiful, modern, intuitive user interface optimized for content people"
+msgstr "Une belle interface utilisateur moderne et intuitive, optimisée pour les personnes qui gèrent les contenus"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Super-powerful hierarchical content management (\"content trees\")"
+msgstr "Gestion de contenu hiérarchique (« en arborescences »)"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "User- and group-based permissions system attached to content hierarchies"
+msgstr "Système de permissions par utilisateur et par groupe attaché à des hiérarchies de contenu"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Flexible image resizing with a ton of image display helpers"
+msgstr "Redimensionnement flexible des images avec une tonne d'aides à l'affichage des images"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Innovative \"<a id=\"a1\">StreamFields</a>\" as an alternative to traditional \"anything goes\" rich text fields"
+msgstr "Des<a id=\"a1\"> \"StreamFields</a>\" innovants comme alternative aux traditionnels champs de texte riche \"anything goes\"."
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Intuitive choosers for embedded Pages, Images, Documents and other content"
+msgstr "Sélecteurs intuitifs pour les pages, images, documents et autres contenus intégrés"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Native integration with ElasticSearch to help you build powerful search features"
+msgstr "Intégration native avec ElasticSearch pour vous aider à créer des fonctions de recherche puissantes"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "Template tags to help create image renditions, smart links, and to navigate content trees"
+msgstr "Modèles de balises pour aider à créer des rendus d'images, des liens intelligents et pour naviguer dans les arborescences de contenu"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "If you're new to Wagtail, there are two primary paths to learning:"
+msgstr "Si vous êtes nouveau ou nouvelle sur Wagtail, il y a deux façons principales pour apprendre :"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "The source code that powers this demo site"
+msgstr "Le code source qui alimente ce site de démo"
+
+msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+msgid "The official <a id=\"a1\">tutorial</a>"
+msgstr "Le <a id=\"a1\">tutoriel officiel</a>"
+
+#~ msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+#~ msgid "\"Page-centric\" content modeling"
+#~ msgstr "Modélisation du contenu « centré sur la page »"
+
+#~ msgctxt "body.2f606359-e21c-4261-9c79-93ca0b42848a"
+#~ msgid "The official <a id=\"a1\">tutorial</a>."
+#~ msgstr "Test"
