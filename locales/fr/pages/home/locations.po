@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "title"
 msgid "Locations"
-msgstr "Sites"
+msgstr ""
 
 msgctxt "introduction"
 msgid "You can find our fine bakeries in friendly cities all over the world."
-msgstr "Vous pouvez trouver nos boulangeries dans des villes accueillantes du monde entier."
+msgstr "22Vous pouvez trouver nos boulangeries dans des villes accueillantes du monde entier."

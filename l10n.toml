@@ -267,3 +267,7 @@ l10n = "locales/{locale}/snippets/base.FooterText/1-footer-text.po"
 reference = "templates/pages/home/test.pot"
 l10n = "locales/{locale}/pages/home/test.po"
 
+[[paths]]
+reference = "templates/pages/home/gallery.pot"
+l10n = "locales/{locale}/pages/home/gallery.po"
+

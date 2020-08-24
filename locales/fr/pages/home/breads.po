@@ -26,4 +26,4 @@ msgstr ""
 
 msgctxt "introduction"
 msgid "We feature outlandishly delicious breads sourced from every continent (except Antarctica)"
-msgstr "Nous vous proposons des pains délicieux provenant de tous les continents (sauf l'Antarctique)"
+msgstr ""
