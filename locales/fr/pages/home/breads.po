@@ -22,7 +22,7 @@ msgstr ""
 "longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo "
 "longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo "
 "longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo "
-"longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo long<div> hello </div>"
+"longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo longPains tooo long"
 
 msgctxt "introduction"
 msgid "We feature outlandishly delicious breads sourced from every continent (except Antarctica)"
