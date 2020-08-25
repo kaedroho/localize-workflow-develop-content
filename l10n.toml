@@ -16,10 +16,6 @@ reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
 l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
 
 [[paths]]
-reference = "templates/pages/home/breads/anadama-bread.pot"
-l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
-
-[[paths]]
 reference = "templates/snippets/breads.Country/4-japan.pot"
 l10n = "locales/{locale}/snippets/breads.Country/4-japan.po"
 
@@ -208,12 +204,16 @@ reference = "templates/snippets/breads.BreadIngredient/2-flour.pot"
 l10n = "locales/{locale}/snippets/breads.BreadIngredient/2-flour.po"
 
 [[paths]]
+reference = "templates/pages/home/blog/desserts-benefits-2.pot"
+l10n = "locales/{locale}/pages/home/blog/desserts-benefits-2.po"
+
+[[paths]]
 reference = "templates/pages/home/test.pot"
 l10n = "locales/{locale}/pages/home/test.po"
 
 [[paths]]
-reference = "templates/pages/home/blog/desserts-benefits-2.pot"
-l10n = "locales/{locale}/pages/home/blog/desserts-benefits-2.po"
+reference = "templates/pages/home/breads/anadama-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
 
 [[paths]]
 reference = "templates/snippets/breads.Country/24-afghanistan.pot"
