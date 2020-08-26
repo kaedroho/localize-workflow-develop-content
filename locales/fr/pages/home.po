@@ -65,3 +65,11 @@ msgstr "Sites"
 msgctxt "featured_section_3_title"
 msgid "Blog"
 msgstr "Blog"
+
+#~ msgctxt "title"
+#~ msgid "Welcome to my Wagtail Bakery!"
+#~ msgstr "Bienvenue dans ma boulangerie Wagtail !"
+
+#~ msgctxt "title"
+#~ msgid "Welcome to West Kowloon!"
+#~ msgstr "Bienvenue à West Kowloon !"
