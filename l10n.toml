@@ -1,9 +1,5 @@
 locales = [ "es", "fr",]
 [[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
-
-[[paths]]
 reference = "templates/pages/home/breads.pot"
 l10n = "locales/{locale}/pages/home/breads.po"
 
@@ -180,14 +176,6 @@ reference = "templates/pages/home/blog/desserts-benefits.pot"
 l10n = "locales/{locale}/pages/home/blog/desserts-benefits.po"
 
 [[paths]]
-reference = "templates/pages/home/gallery.pot"
-l10n = "locales/{locale}/pages/home/gallery.po"
-
-[[paths]]
-reference = "templates/pages/home/contact-us.pot"
-l10n = "locales/{locale}/pages/home/contact-us.po"
-
-[[paths]]
 reference = "templates/pages/home/about.pot"
 l10n = "locales/{locale}/pages/home/about.po"
 
@@ -214,6 +202,18 @@ l10n = "locales/{locale}/pages/home/test.po"
 [[paths]]
 reference = "templates/pages/home/breads/anadama-bread.pot"
 l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
+
+[[paths]]
+reference = "templates/pages/home/gallery.pot"
+l10n = "locales/{locale}/pages/home/gallery.po"
+
+[[paths]]
+reference = "templates/pages/home/contact-us.pot"
+l10n = "locales/{locale}/pages/home/contact-us.po"
 
 [[paths]]
 reference = "templates/snippets/breads.Country/24-afghanistan.pot"
