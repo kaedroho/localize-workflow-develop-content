@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "title"
 msgid "Bazin"
-msgstr ""
+msgstr "Bazin"
 
 msgctxt "introduction"
 msgid "When consumed, bazin may be &quot;crumpled and eaten with the fingers.&quot;"
-msgstr ""
+msgstr "Lorsqu'il est consommé, le bazin peut être \"froissé et mangé avec les doigts\"."
