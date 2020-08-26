@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "title"
 msgid "Bagel"
-msgstr ""
+msgstr "Bagel"
 
 msgctxt "introduction"
 msgid "Though the origins of bagels are somewhat obscure, it is known that they were widely consumed in eastern European Jewish communities from the 17th century."
-msgstr ""
+msgstr "Bien que les origines des bagels soient quelque peu obscures, on sait qu'ils ont été largement consommés dans les communautés juives d'Europe de l'Est à partir du 17e siècle."
