@@ -152,70 +152,6 @@ reference = "templates/pages/home/about.pot"
 l10n = "locales/{locale}/pages/home/about.po"
 
 [[paths]]
-reference = "templates/snippets/breads.BreadIngredient/1-yeast.pot"
-l10n = "locales/{locale}/snippets/breads.BreadIngredient/1-yeast.po"
-
-[[paths]]
-reference = "templates/snippets/base.FooterText/1-footer-text.pot"
-l10n = "locales/{locale}/snippets/base.FooterText/1-footer-text.po"
-
-[[paths]]
-reference = "templates/snippets/breads.BreadIngredient/2-flour.pot"
-l10n = "locales/{locale}/snippets/breads.BreadIngredient/2-flour.po"
-
-[[paths]]
-reference = "templates/pages/home/blog/desserts-benefits-2.pot"
-l10n = "locales/{locale}/pages/home/blog/desserts-benefits-2.po"
-
-[[paths]]
-reference = "templates/pages/home/test.pot"
-l10n = "locales/{locale}/pages/home/test.po"
-
-[[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
-
-[[paths]]
-reference = "templates/pages/home/breads/bagel.pot"
-l10n = "locales/{locale}/pages/home/breads/bagel.po"
-
-[[paths]]
-reference = "templates/pages/home/breads.pot"
-l10n = "locales/{locale}/pages/home/breads.po"
-
-[[paths]]
-reference = "templates/pages/home/contact-us.pot"
-l10n = "locales/{locale}/pages/home/contact-us.po"
-
-[[paths]]
-reference = "templates/pages/home/gallery.pot"
-l10n = "locales/{locale}/pages/home/gallery.po"
-
-[[paths]]
-reference = "templates/snippets/breads.Country/18-libya.pot"
-l10n = "locales/{locale}/snippets/breads.Country/18-libya.po"
-
-[[paths]]
-reference = "templates/snippets/breads.BreadType/11-unleavened-bread.pot"
-l10n = "locales/{locale}/snippets/breads.BreadType/11-unleavened-bread.po"
-
-[[paths]]
-reference = "templates/pages/home/breads/bazin.pot"
-l10n = "locales/{locale}/pages/home/breads/bazin.po"
-
-[[paths]]
-reference = "templates/snippets/breads.Country/8-polishashkenazi-jewish.pot"
-l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
-
-[[paths]]
-reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
-l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
-
-[[paths]]
-reference = "templates/pages/home/breads/anadama-bread.pot"
-l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
-
-[[paths]]
 reference = "templates/snippets/breads.Country/24-afghanistan.pot"
 l10n = "locales/{locale}/snippets/breads.Country/24-afghanistan.po"
 
@@ -256,8 +192,48 @@ reference = "templates/pages/home/blog/desserts-benefits.pot"
 l10n = "locales/{locale}/pages/home/blog/desserts-benefits.po"
 
 [[paths]]
+reference = "templates/snippets/breads.BreadIngredient/1-yeast.pot"
+l10n = "locales/{locale}/snippets/breads.BreadIngredient/1-yeast.po"
+
+[[paths]]
 reference = "templates/snippets/base.FooterText/1-footer-text.pot"
 l10n = "locales/{locale}/snippets/base.FooterText/1-footer-text.po"
+
+[[paths]]
+reference = "templates/snippets/base.FooterText/1-footer-text.pot"
+l10n = "locales/{locale}/snippets/base.FooterText/1-footer-text.po"
+
+[[paths]]
+reference = "templates/snippets/breads.BreadIngredient/2-flour.pot"
+l10n = "locales/{locale}/snippets/breads.BreadIngredient/2-flour.po"
+
+[[paths]]
+reference = "templates/pages/home/blog/desserts-benefits-2.pot"
+l10n = "locales/{locale}/pages/home/blog/desserts-benefits-2.po"
+
+[[paths]]
+reference = "templates/pages/home/gallery.pot"
+l10n = "locales/{locale}/pages/home/gallery.po"
+
+[[paths]]
+reference = "templates/pages/home/test.pot"
+l10n = "locales/{locale}/pages/home/test.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
+
+[[paths]]
+reference = "templates/pages/home/breads/bagel.pot"
+l10n = "locales/{locale}/pages/home/breads/bagel.po"
+
+[[paths]]
+reference = "templates/pages/home/breads.pot"
+l10n = "locales/{locale}/pages/home/breads.po"
+
+[[paths]]
+reference = "templates/pages/home/contact-us.pot"
+l10n = "locales/{locale}/pages/home/contact-us.po"
 
 [[paths]]
 reference = "templates/pages/home/gallery.pot"
@@ -272,6 +248,10 @@ reference = "templates/snippets/breads.Country/8-polishashkenazi-jewish.pot"
 l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
 
 [[paths]]
+reference = "templates/snippets/breads.Country/18-libya.pot"
+l10n = "locales/{locale}/snippets/breads.Country/18-libya.po"
+
+[[paths]]
 reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
 l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
 
@@ -280,6 +260,34 @@ reference = "templates/pages/home/breads/bagel.pot"
 l10n = "locales/{locale}/pages/home/breads/bagel.po"
 
 [[paths]]
+reference = "templates/snippets/breads.BreadType/11-unleavened-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/11-unleavened-bread.po"
+
+[[paths]]
+reference = "templates/pages/home/breads/bazin.pot"
+l10n = "locales/{locale}/pages/home/breads/bazin.po"
+
+[[paths]]
+reference = "templates/snippets/breads.Country/8-polishashkenazi-jewish.pot"
+l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
+
+[[paths]]
+reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
+
+[[paths]]
+reference = "templates/pages/home/breads/anadama-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
+
+[[paths]]
 reference = "templates/snippets/breads.BreadIngredient/1-yeast.pot"
 l10n = "locales/{locale}/snippets/breads.BreadIngredient/1-yeast.po"
+
+[[paths]]
+reference = "templates/snippets/base.People/2-howlin-wolf.pot"
+l10n = "locales/{locale}/snippets/base.People/2-howlin-wolf.po"
+
+[[paths]]
+reference = "templates/snippets/base.People/2-howlin-wolf.pot"
+l10n = "locales/{locale}/snippets/base.People/2-howlin-wolf.po"
 

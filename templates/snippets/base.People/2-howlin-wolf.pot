@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-27 17:03:48.494799+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "first_name"
+msgid "Howlin'"
+msgstr ""
+
+msgctxt "last_name"
+msgid "Wolf"
+msgstr ""
+
+msgctxt "job_title"
+msgid "Director"
+msgstr ""

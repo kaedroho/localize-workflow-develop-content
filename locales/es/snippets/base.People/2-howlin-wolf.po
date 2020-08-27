@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-08-27 17:03:48.480263+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 55d8975a-6238-44de-b43f-26026e75143e\n"
+
+msgctxt "first_name"
+msgid "Howlin'"
+msgstr ""
+
+msgctxt "last_name"
+msgid "Wolf"
+msgstr ""
+
+msgctxt "job_title"
+msgid "Director"
+msgstr ""
