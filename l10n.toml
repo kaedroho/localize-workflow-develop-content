@@ -1,9 +1,5 @@
 locales = [ "es", "fr",]
 [[paths]]
-reference = "templates/pages/home/breads.pot"
-l10n = "locales/{locale}/pages/home/breads.po"
-
-[[paths]]
 reference = "templates/snippets/breads.Country/3-united-states-new-england.pot"
 l10n = "locales/{locale}/snippets/breads.Country/3-united-states-new-england.po"
 
@@ -176,12 +172,12 @@ reference = "templates/pages/home/test.pot"
 l10n = "locales/{locale}/pages/home/test.po"
 
 [[paths]]
-reference = "templates/pages/home/breads/anadama-bread.pot"
-l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
-
-[[paths]]
 reference = "templates/pages/home/breads/bagel.pot"
 l10n = "locales/{locale}/pages/home/breads/bagel.po"
+
+[[paths]]
+reference = "templates/pages/home/breads.pot"
+l10n = "locales/{locale}/pages/home/breads.po"
 
 [[paths]]
 reference = "templates/pages/home/contact-us.pot"
@@ -210,6 +206,10 @@ l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
 [[paths]]
 reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
 l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
+
+[[paths]]
+reference = "templates/pages/home/breads/anadama-bread.pot"
+l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
 
 [[paths]]
 reference = "templates/pages/home.pot"
@@ -260,12 +260,12 @@ reference = "templates/snippets/base.FooterText/1-footer-text.pot"
 l10n = "locales/{locale}/snippets/base.FooterText/1-footer-text.po"
 
 [[paths]]
-reference = "templates/pages/home/test.pot"
-l10n = "locales/{locale}/pages/home/test.po"
-
-[[paths]]
 reference = "templates/pages/home/gallery.pot"
 l10n = "locales/{locale}/pages/home/gallery.po"
+
+[[paths]]
+reference = "templates/pages/home/test.pot"
+l10n = "locales/{locale}/pages/home/test.po"
 
 [[paths]]
 reference = "templates/snippets/breads.Country/8-polishashkenazi-jewish.pot"
