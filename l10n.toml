@@ -184,10 +184,6 @@ reference = "templates/pages/home/breads/bagel.pot"
 l10n = "locales/{locale}/pages/home/breads/bagel.po"
 
 [[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
-
-[[paths]]
 reference = "templates/pages/home/contact-us.pot"
 l10n = "locales/{locale}/pages/home/contact-us.po"
 
@@ -214,6 +210,10 @@ l10n = "locales/{locale}/snippets/breads.Country/8-polishashkenazi-jewish.po"
 [[paths]]
 reference = "templates/snippets/breads.BreadType/4-yeast-bread.pot"
 l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
 
 [[paths]]
 reference = "templates/snippets/breads.Country/24-afghanistan.pot"
