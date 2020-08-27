@@ -172,6 +172,10 @@ reference = "templates/pages/home/test.pot"
 l10n = "locales/{locale}/pages/home/test.po"
 
 [[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
+
+[[paths]]
 reference = "templates/pages/home/breads/bagel.pot"
 l10n = "locales/{locale}/pages/home/breads/bagel.po"
 
@@ -210,10 +214,6 @@ l10n = "locales/{locale}/snippets/breads.BreadType/4-yeast-bread.po"
 [[paths]]
 reference = "templates/pages/home/breads/anadama-bread.pot"
 l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
-
-[[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
 
 [[paths]]
 reference = "templates/snippets/breads.Country/24-afghanistan.pot"
