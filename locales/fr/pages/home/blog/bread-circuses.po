@@ -12,7 +12,7 @@ msgstr "Le pain et les cirques"
 
 msgctxt "slug"
 msgid "bread-circuses"
-msgstr "bread-circuses"
+msgstr "le-pain-et-les-cirques"
 
 msgctxt "introduction"
 msgid ""
