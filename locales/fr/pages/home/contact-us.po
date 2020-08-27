@@ -38,7 +38,7 @@ msgstr "Sujet"
 
 msgctxt "form_fields.8f15ccb3-25bf-4435-b44d-bd0fd95e8703.label"
 msgid "Your Name"
-msgstr "Votre nom"
+msgstr "Test"
 
 msgctxt "form_fields.20b6bdd0-f74d-4096-bd7a-92525180090c.label"
 msgid "Your Email"
