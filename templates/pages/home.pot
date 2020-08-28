@@ -9,6 +9,10 @@ msgctxt "title"
 msgid "Welcome to West Kowloon!"
 msgstr ""
 
+msgctxt "slug"
+msgid "home"
+msgstr ""
+
 msgctxt "seo_title"
 msgid "Home"
 msgstr ""

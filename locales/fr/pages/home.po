@@ -10,6 +10,10 @@ msgctxt "title"
 msgid "Welcome to West Kowloon!"
 msgstr "Bienvenue à West Kowloon !"
 
+msgctxt "slug"
+msgid "home"
+msgstr ""
+
 msgctxt "seo_title"
 msgid "Home"
 msgstr "This is a test from Git updated"
