@@ -31,8 +31,6 @@ msgid ""
 "<b>Bread</b> is a <a id=\"a1\">staple food</a> prepared from a <a id=\"a2\">dough</a> of <a id=\"a3\">flour</a> and <a id=\"a4\">water</a>, usually by <a id=\"a5\">baking</a>. Throughout recorded "
 "history it has been popular around the world and is one of the oldest artificial foods, having been of importance since the dawn of <a id=\"a6\">agriculture</a>."
 msgstr ""
-"Le<b> pain</b> est un aliment de <a id=\"a1\">base</a> préparé à partir d'une <a id=\"a2\">pâte</a> de <a id=\"a3\">farine</a> et d'<a id=\"a4\">eau</a>, généralement par <a id=\"a5\">cuisson</a>. "
-"Tout au long de l'histoire, il a été populaire dans le monde entier et est l'un des plus anciens aliments artificiels, ayant joué un rôle important depuis l'aube de l'<a id=\"a6\">agriculture</a>."
 
 msgctxt "body.7a844d06-a95d-48a0-82dc-6228b98f35f7"
 msgid ""
