@@ -26,7 +26,7 @@ msgctxt "body.7a844d06-a95d-48a0-82dc-6228b98f35f7"
 msgid ""
 "<b>Bread</b> is a <a id=\"a1\">staple food</a> prepared from a <a id=\"a2\">dough</a> of <a id=\"a3\">flour</a> and <a id=\"a4\">water</a>, usually by <a id=\"a5\">baking</a>. Throughout recorded "
 "history it has been popular around the world and is one of the oldest artificial foods, having been of importance since the dawn of <a id=\"a6\">agriculture</a>."
-msgstr "Hi"
+msgstr ""
 
 msgctxt "body.7a844d06-a95d-48a0-82dc-6228b98f35f7"
 msgid ""
