@@ -236,10 +236,6 @@ reference = "templates/pages/home/gallery.pot"
 l10n = "locales/{locale}/pages/home/gallery.po"
 
 [[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
-
-[[paths]]
 reference = "templates/pages/home/test.pot"
 l10n = "locales/{locale}/pages/home/test.po"
 
@@ -282,6 +278,10 @@ l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
 [[paths]]
 reference = "templates/snippets/breads.BreadIngredient/1-yeast.pot"
 l10n = "locales/{locale}/snippets/breads.BreadIngredient/1-yeast.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
 
 [[paths]]
 reference = "templates/snippets/base.People/2-howlin-wolf.pot"
