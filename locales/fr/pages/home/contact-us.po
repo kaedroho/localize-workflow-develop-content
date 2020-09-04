@@ -66,7 +66,7 @@ msgstr "Qu'est-ce qui vous préoccupe ?"
 
 msgctxt "subject"
 msgid "Contact message from Wagtail Demo site"
-msgstr ""
+msgstr "Message de contact du site de démonstration Wagtail"
 
 #~ msgctxt "form_fields.8d42c01f-b47d-4acd-9990-127697e4ccb6.help_text"
 #~ msgid "What&#x27;s on your mind?"
