@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "United States (New England)"
-msgstr ""
+msgstr "USA! USA! USA!"

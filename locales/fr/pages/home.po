@@ -62,7 +62,7 @@ msgstr ""
 
 msgctxt "featured_section_1_title"
 msgid "Breads"
-msgstr "Pains"
+msgstr ""
 
 msgctxt "featured_section_2_title"
 msgid "Locations"
