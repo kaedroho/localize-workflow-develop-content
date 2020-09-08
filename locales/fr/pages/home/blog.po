@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "title"
 msgid "Blog"
-msgstr ""
+msgstr "bluegh 4"
 
 msgctxt "seo_title"
 msgid "Wagtail Bakeries Blog"
-msgstr ""
+msgstr "Blog des boulangeries Wagtail"
 
 msgctxt "introduction"
 msgid "Welcome to our blog"
-msgstr ""
+msgstr "Bienvenue sur notre blog"
