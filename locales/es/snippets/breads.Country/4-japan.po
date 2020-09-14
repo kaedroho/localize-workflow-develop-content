@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-09-14 13:24:25.943557+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 66c69460-32a3-4e74-8df9-0fb1fcaa25a3\n"
+
+msgctxt "title"
+msgid "Japan"
+msgstr ""

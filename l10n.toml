@@ -160,6 +160,10 @@ reference = "templates/pages/home/breads/bolani.pot"
 l10n = "locales/{locale}/pages/home/breads/bolani.po"
 
 [[paths]]
+reference = "templates/snippets/breads.BreadType/5-sweet-bun.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/5-sweet-bun.po"
+
+[[paths]]
 reference = "templates/pages/home/blog.pot"
 l10n = "locales/{locale}/pages/home/blog.po"
 
@@ -284,6 +288,10 @@ reference = "templates/pages/home/breads/anadama-bread.pot"
 l10n = "locales/{locale}/pages/home/breads/anadama-bread.po"
 
 [[paths]]
+reference = "templates/snippets/breads.Country/4-japan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/4-japan.po"
+
+[[paths]]
 reference = "templates/pages/home/contact-us.pot"
 l10n = "locales/{locale}/pages/home/contact-us.po"
 
@@ -298,4 +306,8 @@ l10n = "locales/{locale}/snippets/base.People/2-howlin-wolf.po"
 [[paths]]
 reference = "templates/pages/home.pot"
 l10n = "locales/{locale}/pages/home.po"
+
+[[paths]]
+reference = "templates/pages/home/breads/anpan.pot"
+l10n = "locales/{locale}/pages/home/breads/anpan.po"
 
