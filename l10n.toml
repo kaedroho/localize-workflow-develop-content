@@ -311,3 +311,11 @@ l10n = "locales/{locale}/pages/home.po"
 reference = "templates/pages/home/breads/anpan.pot"
 l10n = "locales/{locale}/pages/home/breads/anpan.po"
 
+[[paths]]
+reference = "templates/snippets/breads.Country/2-slovenia.pot"
+l10n = "locales/{locale}/snippets/breads.Country/2-slovenia.po"
+
+[[paths]]
+reference = "templates/snippets/breads.Country/2-slovenia.pot"
+l10n = "locales/{locale}/snippets/breads.Country/2-slovenia.po"
+

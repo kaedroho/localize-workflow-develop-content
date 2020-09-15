@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-09-15 13:07:54.502241+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c01ddd64-3b60-4d2c-8785-78306db84cd2\n"
+
+msgctxt "title"
+msgid "Slovenia"
+msgstr ""
